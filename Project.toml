@@ -1,0 +1,10 @@
+name = "DualNumbersAD"
+uuid = "d50424ea-97dc-4079-b241-bb47b368121d"
+version = "0.1.0"
+authors = ["shrut "]
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+Test = "1.11.0"
