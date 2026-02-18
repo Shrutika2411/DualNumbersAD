@@ -9,7 +9,8 @@ This Julia package implements **dual numbers** for automatic differentiation.
 
 2. Activate package:
    julia> using Pkg
-   julia> Pkg.activate("path/to/DualNumbersAD")
+   julia> Pkg.generate("C:/Users/shrut/Desktop/HW/DualNumbersAD")
+   julia> Pkg.activate("C:/Users/shrut/Desktop/HW/DualNumbersAD")
    julia> using DualNumbersAD
 
 ## Example Usage
